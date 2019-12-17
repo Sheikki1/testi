@@ -1,9 +1,9 @@
 ---
-title: Koti
+title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hero Section
+  title: 'Hero '
   section_id: hero
   component: HeroBlock
   content: This section can contain a subtitle or tagline. The recommended length
